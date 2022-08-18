@@ -1,0 +1,6 @@
+h1 {bold}
+  p:not(#taxa) {color: green} 
+*{
+  text-align: center;
+  line-height:150%
+}
